@@ -1,0 +1,1 @@
+class testKot333 (name:String, age:Int)
